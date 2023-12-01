@@ -1,7 +1,6 @@
 # Classifier.py
 # Author: Jeffrey Lin
 # Date: 4/10/2023
-# 
 #
 # Purpose: This program utilizes two different methods of classification to 
 # predict whether patients in the test sample are either current smokers or 
