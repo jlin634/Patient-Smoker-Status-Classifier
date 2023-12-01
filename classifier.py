@@ -1,7 +1,7 @@
-# CS-167 classifier.py
-# author: Jeffrey Lin
+# Classifier.py
+# Author: Jeffrey Lin
 # Date: 4/10/2023
-# HW 5
+# 
 #
 # Purpose: This program utilizes two different methods of classification to 
 # predict whether patients in the test sample are either current smokers or 
